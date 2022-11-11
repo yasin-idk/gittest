@@ -16,5 +16,6 @@ public class App
             i++;
             sleep(1);
         }
+        System.out.println("CONGRATULATIONS");
     }
 }
